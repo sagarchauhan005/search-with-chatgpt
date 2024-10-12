@@ -6,6 +6,7 @@ A simple extension to copy the selected text and search with ChatGPT automatical
 
 ![Imgur](https://i.imgur.com/MSsWN75.gif)
 
+
 # How to get it?
 
 1. Open Chrome webs tore and search for "Search with ChatGPT" or click [here](https://chrome.google.com/webstore/detail/bypass/kkofljmpfaanangehehmbkkmbgjjlgja)
