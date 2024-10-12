@@ -9,17 +9,17 @@ chrome.runtime.onInstalled.addListener(() => {
 
 
 // Listen for messages from the content script
-chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
-  if (request.action === "updateContextMenu") {
-    const selectedText = request.selectedText;
-    const truncatedText = selectedText.length > 25 ? selectedText.substring(0, 25) + "..." : selectedText;
-
-    // Update the context menu with the selected text
-    chrome.contextMenus.update("searchWithChatGPT", {
-      title: `Search ChatGPT with "${truncatedText}"`
-    });
-  }
-});
+// chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
+//   if (request.action === "updateContextMenu") {
+//     const selectedText = request.selectedText;
+//     const truncatedText = selectedText.length > 25 ? selectedText.substring(0, 25) + "..." : selectedText;
+//
+//     // Update the context menu with the selected text
+//     chrome.contextMenus.update("searchWithChatGPT", {
+//       title: `Search ChatGPT with "${truncatedText}"`
+//     });
+//   }
+// });
 
 
 // When the context menu item is clicked
