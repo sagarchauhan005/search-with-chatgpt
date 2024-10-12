@@ -1,0 +1,31 @@
+{
+  "manifest_version": 3,
+  "description": "A simple extension to copy the selected text from any webpage and search with ChatGPT automatically.",
+  "name": "Search with ChatGPT",
+  "version": "1.0",
+  "permissions": ["contextMenus", "activeTab", "scripting"],
+  "host_permissions": ["https://chatgpt.com/*"], 
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "/images/icon.png",
+      "32": "/images/icon.png",
+      "48": "/images/icon.png",
+      "128": "/images/icon.png"
+    }
+  },
+  "icons": {
+    "16": "images/icon.png",
+    "48": "images/icon.png",
+    "128": "images/icon.png"
+  }
+}
