@@ -4,7 +4,7 @@ A simple extension to copy the selected text and search with ChatGPT automatical
 
 # Example
 
-![Imgur](https://i.imgur.com/MSsWN75.gif)
+![search-with-gpt-demo](https://github.com/user-attachments/assets/cee2ac4c-b0a5-404e-92c8-8c3163879cee)
 
 
 # How to get it?
