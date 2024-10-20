@@ -9,13 +9,13 @@ A simple extension to copy the selected text and search with ChatGPT automatical
 
 # How to get it?
 
-1. Open Chrome webs tore and search for "Search with ChatGPT" or click [here](https://chrome.google.com/webstore/detail/bypass/kkofljmpfaanangehehmbkkmbgjjlgja)
+1. Open Chrome webs tore and search for "Search with ChatGPT" or click [here](https://chromewebstore.google.com/detail/search-with-chatgpt/mkhindfdkfmjpaecdibpdemdkaaafeoa?authuser=0&hl=en)
 2. Click on the extension
 3. Click on the "Install" button
 4. Click on the "Enable" button
 5. Select any Text and right click to select "Search With ChatGPT"
 
-Or get it on Product Hunt:
+[//]: # (Or get it on Product Hunt:)
 
 [//]: # (<a href="https://www.producthunt.com/posts/bypass-paywall?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-bypass-paywall" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=322428&theme=dark" alt="Bypass Paywall - Down with the walls | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>)
 
