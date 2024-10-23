@@ -15,9 +15,9 @@ A simple extension to copy the selected text and search with ChatGPT automatical
 4. Click on the "Enable" button
 5. Select any Text and right click to select "Search With ChatGPT"
 
-[//]: # (Or get it on Product Hunt:)
+or get it on Product Hunt....
 
-[//]: # (<a href="https://www.producthunt.com/posts/bypass-paywall?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-bypass-paywall" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=322428&theme=dark" alt="Bypass Paywall - Down with the walls | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>)
+<a href="https://www.producthunt.com/posts/search-with-chatgpt?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-search&#0045;with&#0045;chatgpt" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=499200&theme=light" alt="Search&#0032;with&#0032;ChatGPT - Quick&#0032;Search | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 # Shout-out
 
